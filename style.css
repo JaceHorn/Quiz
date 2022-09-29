@@ -1,0 +1,25 @@
+.heading2::before{
+    display: block;
+    padding: 50vw;
+
+
+}
+.instructions{
+    border: 50vw;
+    display: block;
+    
+}
+*{
+    background-color: cornflowerblue;
+}
+.heading{
+    display: block;
+}
+.hint{
+    display: block;
+    height: 30vw;
+    position: fixed;
+    border: 5vw;
+    border-radius: 5vw;
+
+}
